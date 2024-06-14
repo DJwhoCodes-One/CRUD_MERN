@@ -1,0 +1,32 @@
+.navbar {
+  padding-inline: 2vw;
+  padding-block: 1vw;
+}
+
+.appName {
+  text-decoration: none;
+  font-size: 2vw;
+  font-weight: 700;
+  color: rgb(2, 74, 94);
+}
+
+.navInput {
+  outline: none;
+  border: none;
+  padding: 10px;
+  background: transparent;
+  background: rgb(189, 222, 247);
+  color: rgb(6, 61, 101);
+  font-size: 20px;
+}
+
+.navSearch {
+  background: transparent;
+  border: none;
+  outline: none;
+  font-size: 20px;
+  font-weight: 600;
+  color: rgb(51, 209, 209);
+  background: rgb(17, 63, 73);
+  padding: 9px;
+}
